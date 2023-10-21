@@ -9,8 +9,6 @@ function App() {
     <>
     <div>
       <button>hsel</button>
-      <button>from test</button>
-      <button >from moaed</button>
     </div>
     </>
   )
